@@ -1,0 +1,49 @@
+body {
+    background-color: #122624;
+    color: #AABFAF ;
+}
+
+iframe {
+    width: 300px;
+    height: 200px;
+}
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.mouse {
+    color: #85A665;
+    cursor: pointer;
+}
+
+.header{
+    background-color: #395944;
+    color: #122624;
+}
+
+.footer{
+    background-color: black;
+    color: #AABFAF;
+}
+
+li{
+    font-size: 15pt;
+    list-style: none;
+    padding-top: 10px;
+
+}
+#genders{
+    padding-left: 0;
+}
+
+#title{
+    color: white;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
